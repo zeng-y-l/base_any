@@ -1,0 +1,6 @@
+RFC4648 base64
+----
+64
+----
+
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
